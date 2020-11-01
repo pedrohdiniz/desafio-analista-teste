@@ -1,4 +1,0 @@
-{
-    "testFiles": "**/*.feature",
-    "baseUrl": "https://login.saraiva.com.br/registro.html?clientId=authorization_code&redirect_uri=https://vtexid.vtex.com.br/VtexIdAuthSiteKnockout/ReceiveAuthorizationCode.ashx&state=eyJhbGciOiJFUzI1NiIsImtpZCI6IjZDQjExMkEzOUEyRjQ2MzA0RUEwRDFEMTQ5MTkxRkEzNUI3QUY4QTYiLCJ0eXAiOiJqd3QifQ.eyJzdWIiOiI5NkNDRkVCRkUyRUU2QkJFREEyNEYwNDM1RTU3REFBRjIwNTc4MTgxOTM4MjZBRkQ4NERBMUVBQjc3MkE5NTc3IiwiaXNzIjoidG9rZW4tZW1pdHRlciIsImV4cCI6MTYwNDIzNjIwNSwicHJvdmlkZXIiOiJDbGllbnRlIFNhcmFpdmEiLCJpYXQiOjE2MDQyMzU2MDUsImp0aSI6ImU0NDE0N2NjLTVmNmUtNGZlNi1hZGE1LWY0MDdmODdkYTk1YiJ9.NvUUYYo9dKa7Rf-tIalLYAkR0d7oT8TRTg80KlzZjO_Z30PMeSxjRHFf8FkTIfIoyoxY3GZNJKudIvyqmJ9kyw"
-}
